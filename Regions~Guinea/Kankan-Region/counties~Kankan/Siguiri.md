@@ -40,11 +40,18 @@ markerFolder: ./Siguiri/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Siguiri|Siguiri]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Siguiri.public|Siguiri.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Siguiri.internal|Siguiri.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Siguiri.protect|Siguiri.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Siguiri.private|Siguiri.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Siguiri.personal|Siguiri.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Siguiri.secret|Siguiri.secret]] 
+
+### #is_/same_as :: [Siguiri](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.md) 
+
+### #is_/same_as :: [Siguiri.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.public.md) 
+
+### #is_/same_as :: [Siguiri.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.internal.md) 
+
+### #is_/same_as :: [Siguiri.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.protect.md) 
+
+### #is_/same_as :: [Siguiri.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.private.md) 
+
+### #is_/same_as :: [Siguiri.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.personal.md) 
+
+### #is_/same_as :: [Siguiri.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Siguiri.secret.md)
 

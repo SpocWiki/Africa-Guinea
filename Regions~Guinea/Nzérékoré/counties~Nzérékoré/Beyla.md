@@ -40,11 +40,18 @@ markerFolder: ./Beyla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Beyla|Beyla]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Beyla.public|Beyla.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Beyla.internal|Beyla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Beyla.protect|Beyla.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Beyla.private|Beyla.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Beyla.personal|Beyla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Beyla.secret|Beyla.secret]] 
+
+### #is_/same_as :: [Beyla](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.md) 
+
+### #is_/same_as :: [Beyla.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.public.md) 
+
+### #is_/same_as :: [Beyla.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.internal.md) 
+
+### #is_/same_as :: [Beyla.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.protect.md) 
+
+### #is_/same_as :: [Beyla.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.private.md) 
+
+### #is_/same_as :: [Beyla.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.personal.md) 
+
+### #is_/same_as :: [Beyla.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.secret.md)
 

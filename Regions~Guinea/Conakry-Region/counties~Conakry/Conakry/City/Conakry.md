@@ -1,4 +1,4 @@
-﻿---
+---
 location: [9.516666,-13.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/City/Conakry|Conakry]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/City/Conakry.public|Conakry.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/City/Conakry.internal|Conakry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/City/Conakry.protect|Conakry.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/City/Conakry.private|Conakry.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/City/Conakry.personal|Conakry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/City/Conakry.secret|Conakry.secret]] 
+
+### #is_/same_as :: [Conakry](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.md) 
+
+### #is_/same_as :: [Conakry.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.public.md) 
+
+### #is_/same_as :: [Conakry.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.internal.md) 
+
+### #is_/same_as :: [Conakry.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.protect.md) 
+
+### #is_/same_as :: [Conakry.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.private.md) 
+
+### #is_/same_as :: [Conakry.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.personal.md) 
+
+### #is_/same_as :: [Conakry.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.secret.md)
+

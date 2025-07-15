@@ -40,11 +40,18 @@ markerFolder: ./Kouroussa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kouroussa|Kouroussa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kouroussa.public|Kouroussa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kouroussa.internal|Kouroussa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kouroussa.protect|Kouroussa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kouroussa.private|Kouroussa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kouroussa.personal|Kouroussa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kouroussa.secret|Kouroussa.secret]] 
+
+### #is_/same_as :: [Kouroussa](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.md) 
+
+### #is_/same_as :: [Kouroussa.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.public.md) 
+
+### #is_/same_as :: [Kouroussa.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.internal.md) 
+
+### #is_/same_as :: [Kouroussa.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.protect.md) 
+
+### #is_/same_as :: [Kouroussa.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.private.md) 
+
+### #is_/same_as :: [Kouroussa.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.personal.md) 
+
+### #is_/same_as :: [Kouroussa.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Mandiana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Mandiana|Mandiana]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Mandiana.public|Mandiana.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mandiana.internal|Mandiana.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mandiana.protect|Mandiana.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Mandiana.private|Mandiana.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mandiana.personal|Mandiana.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mandiana.secret|Mandiana.secret]] 
+
+### #is_/same_as :: [Mandiana](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.md) 
+
+### #is_/same_as :: [Mandiana.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.public.md) 
+
+### #is_/same_as :: [Mandiana.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.internal.md) 
+
+### #is_/same_as :: [Mandiana.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.protect.md) 
+
+### #is_/same_as :: [Mandiana.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.private.md) 
+
+### #is_/same_as :: [Mandiana.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.personal.md) 
+
+### #is_/same_as :: [Mandiana.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Mandiana.secret.md)
 

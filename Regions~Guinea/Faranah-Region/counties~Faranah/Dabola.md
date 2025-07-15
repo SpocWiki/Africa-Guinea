@@ -40,11 +40,18 @@ markerFolder: ./Dabola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Dabola|Dabola]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Dabola.public|Dabola.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dabola.internal|Dabola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dabola.protect|Dabola.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Dabola.private|Dabola.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dabola.personal|Dabola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dabola.secret|Dabola.secret]] 
+
+### #is_/same_as :: [Dabola](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.md) 
+
+### #is_/same_as :: [Dabola.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.public.md) 
+
+### #is_/same_as :: [Dabola.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.internal.md) 
+
+### #is_/same_as :: [Dabola.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.protect.md) 
+
+### #is_/same_as :: [Dabola.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.private.md) 
+
+### #is_/same_as :: [Dabola.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.personal.md) 
+
+### #is_/same_as :: [Dabola.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Gaoual/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Gaoual|Gaoual]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Gaoual.public|Gaoual.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Gaoual.internal|Gaoual.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Gaoual.protect|Gaoual.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Gaoual.private|Gaoual.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Gaoual.personal|Gaoual.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Gaoual.secret|Gaoual.secret]] 
+
+### #is_/same_as :: [Gaoual](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.md) 
+
+### #is_/same_as :: [Gaoual.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.public.md) 
+
+### #is_/same_as :: [Gaoual.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.internal.md) 
+
+### #is_/same_as :: [Gaoual.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.protect.md) 
+
+### #is_/same_as :: [Gaoual.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.private.md) 
+
+### #is_/same_as :: [Gaoual.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.personal.md) 
+
+### #is_/same_as :: [Gaoual.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.secret.md)
 

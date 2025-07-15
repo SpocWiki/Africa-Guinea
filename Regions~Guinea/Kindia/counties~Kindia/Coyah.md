@@ -40,11 +40,18 @@ markerFolder: ./Coyah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Coyah|Coyah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Coyah.public|Coyah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Coyah.internal|Coyah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Coyah.protect|Coyah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Coyah.private|Coyah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Coyah.personal|Coyah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Coyah.secret|Coyah.secret]] 
+
+### #is_/same_as :: [Coyah](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.md) 
+
+### #is_/same_as :: [Coyah.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.public.md) 
+
+### #is_/same_as :: [Coyah.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.internal.md) 
+
+### #is_/same_as :: [Coyah.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.protect.md) 
+
+### #is_/same_as :: [Coyah.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.private.md) 
+
+### #is_/same_as :: [Coyah.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.personal.md) 
+
+### #is_/same_as :: [Coyah.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.secret.md)
 

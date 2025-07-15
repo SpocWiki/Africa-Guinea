@@ -40,11 +40,18 @@ markerFolder: ./Conakry/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Conakry|Conakry]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Conakry.public|Conakry.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Conakry.internal|Conakry.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Conakry.protect|Conakry.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Conakry.private|Conakry.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Conakry.personal|Conakry.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Conakry.secret|Conakry.secret]] 
+
+### #is_/same_as :: [Conakry](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.md) 
+
+### #is_/same_as :: [Conakry.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.public.md) 
+
+### #is_/same_as :: [Conakry.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.internal.md) 
+
+### #is_/same_as :: [Conakry.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.protect.md) 
+
+### #is_/same_as :: [Conakry.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.private.md) 
+
+### #is_/same_as :: [Conakry.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.personal.md) 
+
+### #is_/same_as :: [Conakry.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Koundara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Koundara|Koundara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Koundara.public|Koundara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Koundara.internal|Koundara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Koundara.protect|Koundara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Koundara.private|Koundara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Koundara.personal|Koundara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Koundara.secret|Koundara.secret]] 
+
+### #is_/same_as :: [Koundara](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.md) 
+
+### #is_/same_as :: [Koundara.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.public.md) 
+
+### #is_/same_as :: [Koundara.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.internal.md) 
+
+### #is_/same_as :: [Koundara.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.protect.md) 
+
+### #is_/same_as :: [Koundara.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.private.md) 
+
+### #is_/same_as :: [Koundara.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.personal.md) 
+
+### #is_/same_as :: [Koundara.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.secret.md)
 

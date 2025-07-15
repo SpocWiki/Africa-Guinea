@@ -40,11 +40,18 @@ markerFolder: ./Boffa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Boffa|Boffa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Boffa.public|Boffa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boffa.internal|Boffa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boffa.protect|Boffa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Boffa.private|Boffa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boffa.personal|Boffa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boffa.secret|Boffa.secret]] 
+
+### #is_/same_as :: [Boffa](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.md) 
+
+### #is_/same_as :: [Boffa.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.public.md) 
+
+### #is_/same_as :: [Boffa.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.internal.md) 
+
+### #is_/same_as :: [Boffa.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.protect.md) 
+
+### #is_/same_as :: [Boffa.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.private.md) 
+
+### #is_/same_as :: [Boffa.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.personal.md) 
+
+### #is_/same_as :: [Boffa.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.secret.md)
 

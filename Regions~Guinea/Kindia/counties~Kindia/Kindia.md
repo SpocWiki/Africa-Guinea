@@ -40,11 +40,18 @@ markerFolder: ./Kindia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kindia|Kindia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kindia.public|Kindia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kindia.internal|Kindia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kindia.protect|Kindia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kindia.private|Kindia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kindia.personal|Kindia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kindia.secret|Kindia.secret]] 
+
+### #is_/same_as :: [Kindia](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.md) 
+
+### #is_/same_as :: [Kindia.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.public.md) 
+
+### #is_/same_as :: [Kindia.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.internal.md) 
+
+### #is_/same_as :: [Kindia.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.protect.md) 
+
+### #is_/same_as :: [Kindia.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.private.md) 
+
+### #is_/same_as :: [Kindia.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.personal.md) 
+
+### #is_/same_as :: [Kindia.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.secret.md)
 

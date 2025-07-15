@@ -40,11 +40,18 @@ markerFolder: ./Macenta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Macenta|Macenta]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Macenta.public|Macenta.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Macenta.internal|Macenta.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Macenta.protect|Macenta.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Macenta.private|Macenta.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Macenta.personal|Macenta.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Macenta.secret|Macenta.secret]] 
+
+### #is_/same_as :: [Macenta](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.md) 
+
+### #is_/same_as :: [Macenta.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.public.md) 
+
+### #is_/same_as :: [Macenta.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.internal.md) 
+
+### #is_/same_as :: [Macenta.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.protect.md) 
+
+### #is_/same_as :: [Macenta.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.private.md) 
+
+### #is_/same_as :: [Macenta.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.personal.md) 
+
+### #is_/same_as :: [Macenta.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.secret.md)
 

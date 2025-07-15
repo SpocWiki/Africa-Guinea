@@ -40,11 +40,18 @@ markerFolder: ./Kissidougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kissidougou|Kissidougou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kissidougou.public|Kissidougou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kissidougou.internal|Kissidougou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kissidougou.protect|Kissidougou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kissidougou.private|Kissidougou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kissidougou.personal|Kissidougou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kissidougou.secret|Kissidougou.secret]] 
+
+### #is_/same_as :: [Kissidougou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.md) 
+
+### #is_/same_as :: [Kissidougou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.public.md) 
+
+### #is_/same_as :: [Kissidougou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.internal.md) 
+
+### #is_/same_as :: [Kissidougou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.protect.md) 
+
+### #is_/same_as :: [Kissidougou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.private.md) 
+
+### #is_/same_as :: [Kissidougou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.personal.md) 
+
+### #is_/same_as :: [Kissidougou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Kissidougou.secret.md)
 

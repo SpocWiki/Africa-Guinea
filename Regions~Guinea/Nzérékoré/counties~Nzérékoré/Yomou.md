@@ -40,11 +40,18 @@ markerFolder: ./Yomou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Yomou|Yomou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Yomou.public|Yomou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Yomou.internal|Yomou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Yomou.protect|Yomou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Yomou.private|Yomou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Yomou.personal|Yomou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Yomou.secret|Yomou.secret]] 
+
+### #is_/same_as :: [Yomou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.md) 
+
+### #is_/same_as :: [Yomou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.public.md) 
+
+### #is_/same_as :: [Yomou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.internal.md) 
+
+### #is_/same_as :: [Yomou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.protect.md) 
+
+### #is_/same_as :: [Yomou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.private.md) 
+
+### #is_/same_as :: [Yomou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.personal.md) 
+
+### #is_/same_as :: [Yomou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Dinguiraye/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Dinguiraye|Dinguiraye]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Dinguiraye.public|Dinguiraye.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.internal|Dinguiraye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dinguiraye.protect|Dinguiraye.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Dinguiraye.private|Dinguiraye.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dinguiraye.personal|Dinguiraye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dinguiraye.secret|Dinguiraye.secret]] 
+
+### #is_/same_as :: [Dinguiraye](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.md) 
+
+### #is_/same_as :: [Dinguiraye.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.public.md) 
+
+### #is_/same_as :: [Dinguiraye.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.internal.md) 
+
+### #is_/same_as :: [Dinguiraye.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.protect.md) 
+
+### #is_/same_as :: [Dinguiraye.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.private.md) 
+
+### #is_/same_as :: [Dinguiraye.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.personal.md) 
+
+### #is_/same_as :: [Dinguiraye.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.secret.md)
 

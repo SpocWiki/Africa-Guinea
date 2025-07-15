@@ -40,11 +40,18 @@ markerFolder: ./Forécariah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Forécariah|Forécariah]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Forécariah.public|Forécariah.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Forécariah.internal|Forécariah.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Forécariah.protect|Forécariah.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Forécariah.private|Forécariah.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Forécariah.personal|Forécariah.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Forécariah.secret|Forécariah.secret]] 
+
+### #is_/same_as :: [Forécariah](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.md) 
+
+### #is_/same_as :: [Forécariah.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.public.md) 
+
+### #is_/same_as :: [Forécariah.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.internal.md) 
+
+### #is_/same_as :: [Forécariah.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.protect.md) 
+
+### #is_/same_as :: [Forécariah.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.private.md) 
+
+### #is_/same_as :: [Forécariah.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.personal.md) 
+
+### #is_/same_as :: [Forécariah.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.secret.md)
 

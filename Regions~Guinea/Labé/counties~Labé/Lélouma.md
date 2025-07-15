@@ -40,11 +40,18 @@ markerFolder: ./Lélouma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Lélouma|Lélouma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Lélouma.public|Lélouma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lélouma.internal|Lélouma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lélouma.protect|Lélouma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Lélouma.private|Lélouma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lélouma.personal|Lélouma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lélouma.secret|Lélouma.secret]] 
+
+### #is_/same_as :: [Lélouma](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.md) 
+
+### #is_/same_as :: [Lélouma.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.public.md) 
+
+### #is_/same_as :: [Lélouma.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.internal.md) 
+
+### #is_/same_as :: [Lélouma.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.protect.md) 
+
+### #is_/same_as :: [Lélouma.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.private.md) 
+
+### #is_/same_as :: [Lélouma.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.personal.md) 
+
+### #is_/same_as :: [Lélouma.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Koubia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Koubia|Koubia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Koubia.public|Koubia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Koubia.internal|Koubia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Koubia.protect|Koubia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Koubia.private|Koubia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Koubia.personal|Koubia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Koubia.secret|Koubia.secret]] 
+
+### #is_/same_as :: [Koubia](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.md) 
+
+### #is_/same_as :: [Koubia.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.public.md) 
+
+### #is_/same_as :: [Koubia.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.internal.md) 
+
+### #is_/same_as :: [Koubia.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.protect.md) 
+
+### #is_/same_as :: [Koubia.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.private.md) 
+
+### #is_/same_as :: [Koubia.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.personal.md) 
+
+### #is_/same_as :: [Koubia.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Koubia.secret.md)
 

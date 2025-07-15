@@ -40,11 +40,18 @@ markerFolder: ./Fria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Fria|Fria]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Fria.public|Fria.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Fria.internal|Fria.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Fria.protect|Fria.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Fria.private|Fria.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Fria.personal|Fria.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Fria.secret|Fria.secret]] 
+
+### #is_/same_as :: [Fria](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.md) 
+
+### #is_/same_as :: [Fria.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.public.md) 
+
+### #is_/same_as :: [Fria.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.internal.md) 
+
+### #is_/same_as :: [Fria.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.protect.md) 
+
+### #is_/same_as :: [Fria.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.private.md) 
+
+### #is_/same_as :: [Fria.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.personal.md) 
+
+### #is_/same_as :: [Fria.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.secret.md)
 

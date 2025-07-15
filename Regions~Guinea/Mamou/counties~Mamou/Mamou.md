@@ -40,11 +40,18 @@ markerFolder: ./Mamou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Mamou|Mamou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Mamou.public|Mamou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Mamou.internal|Mamou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Mamou.protect|Mamou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Mamou.private|Mamou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Mamou.personal|Mamou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Mamou.secret|Mamou.secret]] 
+
+### #is_/same_as :: [Mamou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.md) 
+
+### #is_/same_as :: [Mamou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.public.md) 
+
+### #is_/same_as :: [Mamou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.internal.md) 
+
+### #is_/same_as :: [Mamou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.protect.md) 
+
+### #is_/same_as :: [Mamou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.private.md) 
+
+### #is_/same_as :: [Mamou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.personal.md) 
+
+### #is_/same_as :: [Mamou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.secret.md)
 

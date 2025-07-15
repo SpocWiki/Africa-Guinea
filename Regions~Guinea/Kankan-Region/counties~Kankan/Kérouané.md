@@ -40,11 +40,18 @@ markerFolder: ./Kérouané/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kérouané|Kérouané]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kérouané.public|Kérouané.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kérouané.internal|Kérouané.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kérouané.protect|Kérouané.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kérouané.private|Kérouané.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kérouané.personal|Kérouané.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kérouané.secret|Kérouané.secret]] 
+
+### #is_/same_as :: [Kérouané](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.md) 
+
+### #is_/same_as :: [Kérouané.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.public.md) 
+
+### #is_/same_as :: [Kérouané.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.internal.md) 
+
+### #is_/same_as :: [Kérouané.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.protect.md) 
+
+### #is_/same_as :: [Kérouané.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.private.md) 
+
+### #is_/same_as :: [Kérouané.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.personal.md) 
+
+### #is_/same_as :: [Kérouané.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.secret.md)
 

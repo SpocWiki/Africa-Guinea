@@ -40,11 +40,18 @@ markerFolder: ./Tougué/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Tougué|Tougué]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Tougué.public|Tougué.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Tougué.internal|Tougué.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Tougué.protect|Tougué.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Tougué.private|Tougué.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Tougué.personal|Tougué.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Tougué.secret|Tougué.secret]] 
+
+### #is_/same_as :: [Tougué](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.md) 
+
+### #is_/same_as :: [Tougué.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.public.md) 
+
+### #is_/same_as :: [Tougué.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.internal.md) 
+
+### #is_/same_as :: [Tougué.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.protect.md) 
+
+### #is_/same_as :: [Tougué.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.private.md) 
+
+### #is_/same_as :: [Tougué.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.personal.md) 
+
+### #is_/same_as :: [Tougué.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.secret.md)
 

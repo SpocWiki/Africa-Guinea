@@ -41,11 +41,18 @@ markerFolder: ./Boke/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Boke|Boke]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Boke.public|Boke.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Boke.internal|Boke.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Boke.protect|Boke.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Boke.private|Boke.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Boke.personal|Boke.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Boke.secret|Boke.secret]] 
+
+### #is_/same_as :: [Boke](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.md) 
+
+### #is_/same_as :: [Boke.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.public.md) 
+
+### #is_/same_as :: [Boke.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.internal.md) 
+
+### #is_/same_as :: [Boke.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.protect.md) 
+
+### #is_/same_as :: [Boke.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.private.md) 
+
+### #is_/same_as :: [Boke.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.personal.md) 
+
+### #is_/same_as :: [Boke.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.secret.md)
 

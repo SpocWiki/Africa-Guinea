@@ -40,11 +40,18 @@ markerFolder: ./Guéckédou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Guéckédou|Guéckédou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Guéckédou.public|Guéckédou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Guéckédou.internal|Guéckédou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Guéckédou.protect|Guéckédou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Guéckédou.private|Guéckédou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Guéckédou.personal|Guéckédou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Guéckédou.secret|Guéckédou.secret]] 
+
+### #is_/same_as :: [Guéckédou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.md) 
+
+### #is_/same_as :: [Guéckédou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.public.md) 
+
+### #is_/same_as :: [Guéckédou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.internal.md) 
+
+### #is_/same_as :: [Guéckédou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.protect.md) 
+
+### #is_/same_as :: [Guéckédou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.private.md) 
+
+### #is_/same_as :: [Guéckédou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.personal.md) 
+
+### #is_/same_as :: [Guéckédou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Guéckédou.secret.md)
 

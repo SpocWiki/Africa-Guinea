@@ -40,11 +40,18 @@ markerFolder: ./Télimélé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Télimélé|Télimélé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Télimélé.public|Télimélé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Télimélé.internal|Télimélé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Télimélé.protect|Télimélé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Télimélé.private|Télimélé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Télimélé.personal|Télimélé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Télimélé.secret|Télimélé.secret]] 
+
+### #is_/same_as :: [Télimélé](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.md) 
+
+### #is_/same_as :: [Télimélé.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.public.md) 
+
+### #is_/same_as :: [Télimélé.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.internal.md) 
+
+### #is_/same_as :: [Télimélé.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.protect.md) 
+
+### #is_/same_as :: [Télimélé.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.private.md) 
+
+### #is_/same_as :: [Télimélé.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.personal.md) 
+
+### #is_/same_as :: [Télimélé.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.secret.md)
 

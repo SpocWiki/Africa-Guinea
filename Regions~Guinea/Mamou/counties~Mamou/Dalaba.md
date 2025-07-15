@@ -40,11 +40,18 @@ markerFolder: ./Dalaba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Dalaba|Dalaba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Dalaba.public|Dalaba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Dalaba.internal|Dalaba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Dalaba.protect|Dalaba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Dalaba.private|Dalaba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Dalaba.personal|Dalaba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Dalaba.secret|Dalaba.secret]] 
+
+### #is_/same_as :: [Dalaba](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.md) 
+
+### #is_/same_as :: [Dalaba.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.public.md) 
+
+### #is_/same_as :: [Dalaba.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.internal.md) 
+
+### #is_/same_as :: [Dalaba.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.protect.md) 
+
+### #is_/same_as :: [Dalaba.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.private.md) 
+
+### #is_/same_as :: [Dalaba.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.personal.md) 
+
+### #is_/same_as :: [Dalaba.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.secret.md)
 

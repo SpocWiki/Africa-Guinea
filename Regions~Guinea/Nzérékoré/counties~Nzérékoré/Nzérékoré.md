@@ -40,11 +40,18 @@ markerFolder: ./Nzérékoré/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Nzérékoré|Nzérékoré]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Nzérékoré.public|Nzérékoré.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.internal|Nzérékoré.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Nzérékoré.protect|Nzérékoré.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Nzérékoré.private|Nzérékoré.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Nzérékoré.personal|Nzérékoré.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Nzérékoré.secret|Nzérékoré.secret]] 
+
+### #is_/same_as :: [Nzérékoré](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.md) 
+
+### #is_/same_as :: [Nzérékoré.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.public.md) 
+
+### #is_/same_as :: [Nzérékoré.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.internal.md) 
+
+### #is_/same_as :: [Nzérékoré.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.protect.md) 
+
+### #is_/same_as :: [Nzérékoré.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.private.md) 
+
+### #is_/same_as :: [Nzérékoré.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.personal.md) 
+
+### #is_/same_as :: [Nzérékoré.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Nzérékoré.secret.md)
 

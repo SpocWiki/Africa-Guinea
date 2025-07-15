@@ -40,11 +40,18 @@ markerFolder: ./Kankan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Kankan|Kankan]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Kankan.public|Kankan.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Kankan.internal|Kankan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Kankan.protect|Kankan.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Kankan.private|Kankan.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Kankan.personal|Kankan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Kankan.secret|Kankan.secret]] 
+
+### #is_/same_as :: [Kankan](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.md) 
+
+### #is_/same_as :: [Kankan.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.public.md) 
+
+### #is_/same_as :: [Kankan.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.internal.md) 
+
+### #is_/same_as :: [Kankan.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.protect.md) 
+
+### #is_/same_as :: [Kankan.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.private.md) 
+
+### #is_/same_as :: [Kankan.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.personal.md) 
+
+### #is_/same_as :: [Kankan.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.secret.md)
 

@@ -129,10 +129,4 @@ Capital :: [[Conakry]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Guinea|Guinea]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Guinea.protect|Guinea.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Guinea.private|Guinea.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]] 
+

@@ -40,11 +40,18 @@ markerFolder: ./Lola/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Guinea/Counties/Lola|Lola]] 
-- [[../../../../../../_public/geo/Continent/Africa/Guinea/Counties/Lola.public|Lola.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Guinea/Counties/Lola.internal|Lola.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Guinea/Counties/Lola.protect|Lola.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Guinea/Counties/Lola.private|Lola.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Guinea/Counties/Lola.personal|Lola.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Guinea/Counties/Lola.secret|Lola.secret]] 
+
+### #is_/same_as :: [Lola](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.md) 
+
+### #is_/same_as :: [Lola.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.public.md) 
+
+### #is_/same_as :: [Lola.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.internal.md) 
+
+### #is_/same_as :: [Lola.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.protect.md) 
+
+### #is_/same_as :: [Lola.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.private.md) 
+
+### #is_/same_as :: [Lola.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.personal.md) 
+
+### #is_/same_as :: [Lola.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.secret.md)
 
