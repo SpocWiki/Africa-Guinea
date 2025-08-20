@@ -1,35 +1,36 @@
 ---
 location:
-- 9.51667
-- -13.7
+  - 9.51667
+  - -13.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26907
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Guinea
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Guinea
-- Guinée
-- غينيا
-- 几内亚
-- Гвинея
-- the Republic of Guinea
-- la República de Guinea
+  - Guinea
+  - Guinée
+  - غينيا
+  - 几内亚
+  - Гвинея
+  - the Republic of Guinea
+  - la República de Guinea
 Languages:
-- fr-GN
+  - fr-GN
 ---
 
 
