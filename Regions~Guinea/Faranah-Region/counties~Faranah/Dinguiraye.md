@@ -40,17 +40,17 @@ markerFolder: ./Dinguiraye/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dinguiraye](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye|Dinguiraye]] 
 
-### #is_/same_as :: [Dinguiraye.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.public|Dinguiraye.public]] 
 
-### #is_/same_as :: [Dinguiraye.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.internal|Dinguiraye.internal]] 
 
-### #is_/same_as :: [Dinguiraye.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.protect|Dinguiraye.protect]] 
 
-### #is_/same_as :: [Dinguiraye.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.private|Dinguiraye.private]] 
 
-### #is_/same_as :: [Dinguiraye.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.personal|Dinguiraye.personal]] 
 
-### #is_/same_as :: [Dinguiraye.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dinguiraye.secret|Dinguiraye.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Kindia/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kindia](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia|Kindia]] 
 
-### #is_/same_as :: [Kindia.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.public|Kindia.public]] 
 
-### #is_/same_as :: [Kindia.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.internal|Kindia.internal]] 
 
-### #is_/same_as :: [Kindia.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.protect|Kindia.protect]] 
 
-### #is_/same_as :: [Kindia.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.private|Kindia.private]] 
 
-### #is_/same_as :: [Kindia.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.personal|Kindia.personal]] 
 
-### #is_/same_as :: [Kindia.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Kindia.secret|Kindia.secret]] 
 

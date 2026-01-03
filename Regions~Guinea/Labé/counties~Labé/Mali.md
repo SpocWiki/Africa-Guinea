@@ -40,17 +40,17 @@ markerFolder: ./Mali/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mali](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali|Mali]] 
 
-### #is_/same_as :: [Mali.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.public|Mali.public]] 
 
-### #is_/same_as :: [Mali.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.internal|Mali.internal]] 
 
-### #is_/same_as :: [Mali.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.protect|Mali.protect]] 
 
-### #is_/same_as :: [Mali.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.private|Mali.private]] 
 
-### #is_/same_as :: [Mali.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.personal|Mali.personal]] 
 
-### #is_/same_as :: [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Mali.secret|Mali.secret]] 
 

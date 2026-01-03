@@ -40,17 +40,17 @@ markerFolder: ./Forécariah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forécariah](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah|Forécariah]] 
 
-### #is_/same_as :: [Forécariah.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.public|Forécariah.public]] 
 
-### #is_/same_as :: [Forécariah.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.internal|Forécariah.internal]] 
 
-### #is_/same_as :: [Forécariah.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.protect|Forécariah.protect]] 
 
-### #is_/same_as :: [Forécariah.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.private|Forécariah.private]] 
 
-### #is_/same_as :: [Forécariah.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.personal|Forécariah.personal]] 
 
-### #is_/same_as :: [Forécariah.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Forécariah.secret|Forécariah.secret]] 
 

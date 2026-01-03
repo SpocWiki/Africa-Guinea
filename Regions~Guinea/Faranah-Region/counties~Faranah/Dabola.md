@@ -40,17 +40,17 @@ markerFolder: ./Dabola/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dabola](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola|Dabola]] 
 
-### #is_/same_as :: [Dabola.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.public|Dabola.public]] 
 
-### #is_/same_as :: [Dabola.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.internal|Dabola.internal]] 
 
-### #is_/same_as :: [Dabola.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.protect|Dabola.protect]] 
 
-### #is_/same_as :: [Dabola.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.private|Dabola.private]] 
 
-### #is_/same_as :: [Dabola.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.personal|Dabola.personal]] 
 
-### #is_/same_as :: [Dabola.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Dabola.secret|Dabola.secret]] 
 

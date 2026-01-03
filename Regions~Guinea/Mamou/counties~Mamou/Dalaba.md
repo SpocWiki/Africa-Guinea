@@ -40,17 +40,17 @@ markerFolder: ./Dalaba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dalaba](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba|Dalaba]] 
 
-### #is_/same_as :: [Dalaba.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.public|Dalaba.public]] 
 
-### #is_/same_as :: [Dalaba.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.internal|Dalaba.internal]] 
 
-### #is_/same_as :: [Dalaba.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.protect|Dalaba.protect]] 
 
-### #is_/same_as :: [Dalaba.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.private|Dalaba.private]] 
 
-### #is_/same_as :: [Dalaba.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.personal|Dalaba.personal]] 
 
-### #is_/same_as :: [Dalaba.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Dalaba.secret|Dalaba.secret]] 
 

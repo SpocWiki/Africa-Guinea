@@ -40,17 +40,17 @@ markerFolder: ./Kérouané/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kérouané](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané|Kérouané]] 
 
-### #is_/same_as :: [Kérouané.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.public|Kérouané.public]] 
 
-### #is_/same_as :: [Kérouané.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.internal|Kérouané.internal]] 
 
-### #is_/same_as :: [Kérouané.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.protect|Kérouané.protect]] 
 
-### #is_/same_as :: [Kérouané.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.private|Kérouané.private]] 
 
-### #is_/same_as :: [Kérouané.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.personal|Kérouané.personal]] 
 
-### #is_/same_as :: [Kérouané.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kérouané.secret|Kérouané.secret]] 
 

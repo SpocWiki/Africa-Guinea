@@ -40,17 +40,17 @@ markerFolder: ./Mamou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mamou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou|Mamou]] 
 
-### #is_/same_as :: [Mamou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.public|Mamou.public]] 
 
-### #is_/same_as :: [Mamou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.internal|Mamou.internal]] 
 
-### #is_/same_as :: [Mamou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.protect|Mamou.protect]] 
 
-### #is_/same_as :: [Mamou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.private|Mamou.private]] 
 
-### #is_/same_as :: [Mamou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.personal|Mamou.personal]] 
 
-### #is_/same_as :: [Mamou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Mamou.secret|Mamou.secret]] 
 

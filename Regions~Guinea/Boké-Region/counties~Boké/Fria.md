@@ -40,17 +40,17 @@ markerFolder: ./Fria/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fria](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria|Fria]] 
 
-### #is_/same_as :: [Fria.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.public|Fria.public]] 
 
-### #is_/same_as :: [Fria.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.internal|Fria.internal]] 
 
-### #is_/same_as :: [Fria.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.protect|Fria.protect]] 
 
-### #is_/same_as :: [Fria.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.private|Fria.private]] 
 
-### #is_/same_as :: [Fria.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.personal|Fria.personal]] 
 
-### #is_/same_as :: [Fria.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Fria.secret|Fria.secret]] 
 

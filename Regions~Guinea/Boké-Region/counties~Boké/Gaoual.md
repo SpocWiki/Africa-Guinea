@@ -40,17 +40,17 @@ markerFolder: ./Gaoual/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaoual](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual|Gaoual]] 
 
-### #is_/same_as :: [Gaoual.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.public|Gaoual.public]] 
 
-### #is_/same_as :: [Gaoual.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.internal|Gaoual.internal]] 
 
-### #is_/same_as :: [Gaoual.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.protect|Gaoual.protect]] 
 
-### #is_/same_as :: [Gaoual.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.private|Gaoual.private]] 
 
-### #is_/same_as :: [Gaoual.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.personal|Gaoual.personal]] 
 
-### #is_/same_as :: [Gaoual.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Gaoual.secret|Gaoual.secret]] 
 

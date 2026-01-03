@@ -40,17 +40,17 @@ markerFolder: ./Télimélé/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Télimélé](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé|Télimélé]] 
 
-### #is_/same_as :: [Télimélé.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.public|Télimélé.public]] 
 
-### #is_/same_as :: [Télimélé.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.internal|Télimélé.internal]] 
 
-### #is_/same_as :: [Télimélé.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.protect|Télimélé.protect]] 
 
-### #is_/same_as :: [Télimélé.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.private|Télimélé.private]] 
 
-### #is_/same_as :: [Télimélé.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.personal|Télimélé.personal]] 
 
-### #is_/same_as :: [Télimélé.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Télimélé.secret|Télimélé.secret]] 
 

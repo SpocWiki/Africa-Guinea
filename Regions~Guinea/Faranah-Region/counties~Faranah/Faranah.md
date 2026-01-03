@@ -40,17 +40,17 @@ markerFolder: ./Faranah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faranah](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah|Faranah]] 
 
-### #is_/same_as :: [Faranah.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.public|Faranah.public]] 
 
-### #is_/same_as :: [Faranah.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.internal|Faranah.internal]] 
 
-### #is_/same_as :: [Faranah.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.protect|Faranah.protect]] 
 
-### #is_/same_as :: [Faranah.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.private|Faranah.private]] 
 
-### #is_/same_as :: [Faranah.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.personal|Faranah.personal]] 
 
-### #is_/same_as :: [Faranah.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Faranah-Region/counties~Faranah/Faranah.secret|Faranah.secret]] 
 

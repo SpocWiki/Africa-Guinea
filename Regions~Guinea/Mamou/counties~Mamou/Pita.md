@@ -40,17 +40,17 @@ markerFolder: ./Pita/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pita](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita|Pita]] 
 
-### #is_/same_as :: [Pita.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.public|Pita.public]] 
 
-### #is_/same_as :: [Pita.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.internal|Pita.internal]] 
 
-### #is_/same_as :: [Pita.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.protect|Pita.protect]] 
 
-### #is_/same_as :: [Pita.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.private|Pita.private]] 
 
-### #is_/same_as :: [Pita.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.personal|Pita.personal]] 
 
-### #is_/same_as :: [Pita.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Mamou/counties~Mamou/Pita.secret|Pita.secret]] 
 

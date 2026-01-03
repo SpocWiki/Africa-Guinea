@@ -40,17 +40,17 @@ markerFolder: ./Beyla/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beyla](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla|Beyla]] 
 
-### #is_/same_as :: [Beyla.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.public|Beyla.public]] 
 
-### #is_/same_as :: [Beyla.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.internal|Beyla.internal]] 
 
-### #is_/same_as :: [Beyla.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.protect|Beyla.protect]] 
 
-### #is_/same_as :: [Beyla.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.private|Beyla.private]] 
 
-### #is_/same_as :: [Beyla.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.personal|Beyla.personal]] 
 
-### #is_/same_as :: [Beyla.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Beyla.secret|Beyla.secret]] 
 

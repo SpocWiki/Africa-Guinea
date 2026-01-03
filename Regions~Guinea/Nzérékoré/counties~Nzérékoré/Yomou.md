@@ -40,17 +40,17 @@ markerFolder: ./Yomou/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yomou](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou|Yomou]] 
 
-### #is_/same_as :: [Yomou.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.public|Yomou.public]] 
 
-### #is_/same_as :: [Yomou.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.internal|Yomou.internal]] 
 
-### #is_/same_as :: [Yomou.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.protect|Yomou.protect]] 
 
-### #is_/same_as :: [Yomou.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.private|Yomou.private]] 
 
-### #is_/same_as :: [Yomou.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.personal|Yomou.personal]] 
 
-### #is_/same_as :: [Yomou.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Yomou.secret|Yomou.secret]] 
 

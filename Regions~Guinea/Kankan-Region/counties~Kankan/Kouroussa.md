@@ -40,17 +40,17 @@ markerFolder: ./Kouroussa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kouroussa](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa|Kouroussa]] 
 
-### #is_/same_as :: [Kouroussa.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.public|Kouroussa.public]] 
 
-### #is_/same_as :: [Kouroussa.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.internal|Kouroussa.internal]] 
 
-### #is_/same_as :: [Kouroussa.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.protect|Kouroussa.protect]] 
 
-### #is_/same_as :: [Kouroussa.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.private|Kouroussa.private]] 
 
-### #is_/same_as :: [Kouroussa.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.personal|Kouroussa.personal]] 
 
-### #is_/same_as :: [Kouroussa.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kouroussa.secret|Kouroussa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Labé/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Labé](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé|Labé]] 
 
-### #is_/same_as :: [Labé.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.public|Labé.public]] 
 
-### #is_/same_as :: [Labé.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.internal|Labé.internal]] 
 
-### #is_/same_as :: [Labé.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.protect|Labé.protect]] 
 
-### #is_/same_as :: [Labé.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.private|Labé.private]] 
 
-### #is_/same_as :: [Labé.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.personal|Labé.personal]] 
 
-### #is_/same_as :: [Labé.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Labé.secret|Labé.secret]] 
 

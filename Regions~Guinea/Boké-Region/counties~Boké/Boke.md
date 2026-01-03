@@ -41,17 +41,17 @@ markerFolder: ./Boke/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boke](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke|Boke]] 
 
-### #is_/same_as :: [Boke.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.public|Boke.public]] 
 
-### #is_/same_as :: [Boke.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.internal|Boke.internal]] 
 
-### #is_/same_as :: [Boke.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.protect|Boke.protect]] 
 
-### #is_/same_as :: [Boke.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.private|Boke.private]] 
 
-### #is_/same_as :: [Boke.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.personal|Boke.personal]] 
 
-### #is_/same_as :: [Boke.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boke.secret|Boke.secret]] 
 

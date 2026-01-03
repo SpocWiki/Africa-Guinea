@@ -40,17 +40,17 @@ markerFolder: ./Koundara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koundara](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara|Koundara]] 
 
-### #is_/same_as :: [Koundara.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.public|Koundara.public]] 
 
-### #is_/same_as :: [Koundara.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.internal|Koundara.internal]] 
 
-### #is_/same_as :: [Koundara.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.protect|Koundara.protect]] 
 
-### #is_/same_as :: [Koundara.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.private|Koundara.private]] 
 
-### #is_/same_as :: [Koundara.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.personal|Koundara.personal]] 
 
-### #is_/same_as :: [Koundara.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Koundara.secret|Koundara.secret]] 
 

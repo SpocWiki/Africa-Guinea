@@ -40,17 +40,17 @@ markerFolder: ./Lola/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lola](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola|Lola]] 
 
-### #is_/same_as :: [Lola.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.public|Lola.public]] 
 
-### #is_/same_as :: [Lola.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.internal|Lola.internal]] 
 
-### #is_/same_as :: [Lola.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.protect|Lola.protect]] 
 
-### #is_/same_as :: [Lola.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.private|Lola.private]] 
 
-### #is_/same_as :: [Lola.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.personal|Lola.personal]] 
 
-### #is_/same_as :: [Lola.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Lola.secret|Lola.secret]] 
 

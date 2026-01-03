@@ -40,17 +40,17 @@ markerFolder: ./Kankan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kankan](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan|Kankan]] 
 
-### #is_/same_as :: [Kankan.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.public|Kankan.public]] 
 
-### #is_/same_as :: [Kankan.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.internal|Kankan.internal]] 
 
-### #is_/same_as :: [Kankan.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.protect|Kankan.protect]] 
 
-### #is_/same_as :: [Kankan.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.private|Kankan.private]] 
 
-### #is_/same_as :: [Kankan.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.personal|Kankan.personal]] 
 
-### #is_/same_as :: [Kankan.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kankan-Region/counties~Kankan/Kankan.secret|Kankan.secret]] 
 

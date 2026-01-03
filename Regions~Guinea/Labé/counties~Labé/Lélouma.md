@@ -40,17 +40,17 @@ markerFolder: ./Lélouma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lélouma](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma|Lélouma]] 
 
-### #is_/same_as :: [Lélouma.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.public|Lélouma.public]] 
 
-### #is_/same_as :: [Lélouma.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.internal|Lélouma.internal]] 
 
-### #is_/same_as :: [Lélouma.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.protect|Lélouma.protect]] 
 
-### #is_/same_as :: [Lélouma.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.private|Lélouma.private]] 
 
-### #is_/same_as :: [Lélouma.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.personal|Lélouma.personal]] 
 
-### #is_/same_as :: [Lélouma.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Lélouma.secret|Lélouma.secret]] 
 

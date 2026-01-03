@@ -40,17 +40,17 @@ markerFolder: ./Tougué/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tougué](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué|Tougué]] 
 
-### #is_/same_as :: [Tougué.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.public|Tougué.public]] 
 
-### #is_/same_as :: [Tougué.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.internal|Tougué.internal]] 
 
-### #is_/same_as :: [Tougué.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.protect|Tougué.protect]] 
 
-### #is_/same_as :: [Tougué.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.private|Tougué.private]] 
 
-### #is_/same_as :: [Tougué.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.personal|Tougué.personal]] 
 
-### #is_/same_as :: [Tougué.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Labé/counties~Labé/Tougué.secret|Tougué.secret]] 
 

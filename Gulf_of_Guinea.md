@@ -70,3 +70,20 @@ Commons_category: Gulf of Guinea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gulf%20of%20Guinea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea|Gulf_of_Guinea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.public|Gulf_of_Guinea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.internal|Gulf_of_Guinea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.protect|Gulf_of_Guinea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.private|Gulf_of_Guinea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.personal|Gulf_of_Guinea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Gulf_of_Guinea.secret|Gulf_of_Guinea.secret]] 
+

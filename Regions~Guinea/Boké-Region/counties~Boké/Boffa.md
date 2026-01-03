@@ -40,17 +40,17 @@ markerFolder: ./Boffa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boffa](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa|Boffa]] 
 
-### #is_/same_as :: [Boffa.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.public|Boffa.public]] 
 
-### #is_/same_as :: [Boffa.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.internal|Boffa.internal]] 
 
-### #is_/same_as :: [Boffa.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.protect|Boffa.protect]] 
 
-### #is_/same_as :: [Boffa.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.private|Boffa.private]] 
 
-### #is_/same_as :: [Boffa.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.personal|Boffa.personal]] 
 
-### #is_/same_as :: [Boffa.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Boké-Region/counties~Boké/Boffa.secret|Boffa.secret]] 
 

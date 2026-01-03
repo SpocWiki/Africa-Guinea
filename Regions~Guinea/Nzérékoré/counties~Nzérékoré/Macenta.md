@@ -40,17 +40,17 @@ markerFolder: ./Macenta/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Macenta](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta|Macenta]] 
 
-### #is_/same_as :: [Macenta.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.public|Macenta.public]] 
 
-### #is_/same_as :: [Macenta.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.internal|Macenta.internal]] 
 
-### #is_/same_as :: [Macenta.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.protect|Macenta.protect]] 
 
-### #is_/same_as :: [Macenta.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.private|Macenta.private]] 
 
-### #is_/same_as :: [Macenta.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.personal|Macenta.personal]] 
 
-### #is_/same_as :: [Macenta.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Nzérékoré/counties~Nzérékoré/Macenta.secret|Macenta.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conakry](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry|Conakry]] 
 
-### #is_/same_as :: [Conakry.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.public|Conakry.public]] 
 
-### #is_/same_as :: [Conakry.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.internal|Conakry.internal]] 
 
-### #is_/same_as :: [Conakry.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.protect|Conakry.protect]] 
 
-### #is_/same_as :: [Conakry.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.private|Conakry.private]] 
 
-### #is_/same_as :: [Conakry.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.personal|Conakry.personal]] 
 
-### #is_/same_as :: [Conakry.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Conakry-Region/counties~Conakry/Conakry/City/Conakry.secret|Conakry.secret]] 
 

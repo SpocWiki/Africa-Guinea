@@ -40,17 +40,17 @@ markerFolder: ./Coyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coyah](/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah|Coyah]] 
 
-### #is_/same_as :: [Coyah.public](/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.public|Coyah.public]] 
 
-### #is_/same_as :: [Coyah.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.internal|Coyah.internal]] 
 
-### #is_/same_as :: [Coyah.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.protect|Coyah.protect]] 
 
-### #is_/same_as :: [Coyah.private](/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.private|Coyah.private]] 
 
-### #is_/same_as :: [Coyah.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.personal|Coyah.personal]] 
 
-### #is_/same_as :: [Coyah.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Guinea/Regions~Guinea/Kindia/counties~Kindia/Coyah.secret|Coyah.secret]] 
 
