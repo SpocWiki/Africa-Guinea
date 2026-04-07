@@ -38,36 +38,36 @@ official_name:
   - Conakry
   - ߞߐߣߊߞߙߌ߫
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Kindia_Region,868520]]"
-  - "[[_Standards/WikiData/WD~Dubréka_Prefecture,1263263]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Conakry_Region,1373230]]"
+  - "[[_Standards/WikiData/WD~Kindia_Region,868520|WD~Kindia_Region,868520]]"
+  - "[[_Standards/WikiData/WD~Dubréka_Prefecture,1263263|WD~Dubréka_Prefecture,1263263]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Conakry_Region,1373230|WD~Conakry_Region,1373230]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Dixinn,3032606]]"
-  - "[[_Standards/WikiData/WD~Kaloum,3192252]]"
-  - "[[_Standards/WikiData/WD~Matam,3298195]]"
-  - "[[_Standards/WikiData/WD~Matoto,3299209]]"
-  - "[[_Standards/WikiData/WD~Ratoma,3420127]]"
-  - "[[_Standards/WikiData/WD~Kassa_Island,24854585]]"
+  - "[[_Standards/WikiData/WD~Dixinn,3032606|WD~Dixinn,3032606]]"
+  - "[[_Standards/WikiData/WD~Kaloum,3192252|WD~Kaloum,3192252]]"
+  - "[[_Standards/WikiData/WD~Matam,3298195|WD~Matam,3298195]]"
+  - "[[_Standards/WikiData/WD~Matoto,3299209|WD~Matoto,3299209]]"
+  - "[[_Standards/WikiData/WD~Ratoma,3420127|WD~Ratoma,3420127]]"
+  - "[[_Standards/WikiData/WD~Kassa_Island,24854585|WD~Kassa_Island,24854585]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q8058904,8058904]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q8058904,8058904|WD~Q8058904,8058904]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Guinean_Sign_Language,15983937]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Conakry,18144308]]"
-head_of_government: "[[_Standards/WikiData/WD~M'Mahawa_Sylla,108498017]]"
+  - "[[_Standards/WikiData/WD~Guinean_Sign_Language,15983937|WD~Guinean_Sign_Language,15983937]]"
+  - "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Conakry,18144308|WD~timeline_of_Conakry,18144308]]"
+head_of_government: "[[_Standards/WikiData/WD~M'Mahawa_Sylla,108498017|WD~M'Mahawa_Sylla,108498017]]"
 coordinate_location: Point(-13.712222222 9.509166666)
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Guinea,1006]]"
-capital_of: "[[_Standards/WikiData/WD~Guinea,1006]]"
+instance_of: "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+country: "[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]"
+capital_of: "[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Dakar,3718]]"
-  - "[[_Standards/WikiData/WD~Freetown,3780]]"
-  - "[[_Standards/WikiData/WD~Cleveland,37320]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+  - "[[_Standards/WikiData/WD~Dakar,3718|WD~Dakar,3718]]"
+  - "[[_Standards/WikiData/WD~Freetown,3780|WD~Freetown,3780]]"
+  - "[[_Standards/WikiData/WD~Cleveland,37320|WD~Cleveland,37320]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~Greenwich_Mean_Time,30192|WD~Greenwich_Mean_Time,30192]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 13
 area: 450
 local_dialing_code:
