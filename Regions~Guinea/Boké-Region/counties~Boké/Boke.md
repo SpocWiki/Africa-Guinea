@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Boke/
 markerFolder: ./Boke/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
