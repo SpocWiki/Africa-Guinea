@@ -752,7 +752,7 @@ dv_UNTERM_Chinese_Formal: 几内亚共和国
 dv_UNTERM_French_Formal: la République de Guinée
 dv_UNTERM_Russian: Гвинея
 dv_UNTERM_Russian_Formal: Гвинейская Республика
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -779,7 +779,7 @@ dv_ISO2: GN
 dv_ISO3: GIN
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
+  - '[[../../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~West/Guinea|Guinea]]'
   - '[[/_public/Earth/Continent/Africa/Africa~West/Guinea.public|Guinea.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]]'
@@ -790,7 +790,7 @@ dv_is_:
 dv_has_name_de: Guinea
 dv_Area-Total: 245857
 dv_Area-Land: 245720
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: RG
 dv_Alcohol-l: 0.8
 dv_Language-Id: 496
@@ -799,7 +799,7 @@ dv_has_place_latitude: 9.51667
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Guinea
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
+- '[[../../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~West/Guinea|Guinea]]'
 - '[[/_public/Earth/Continent/Africa/Africa~West/Guinea.public|Guinea.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]]'
@@ -817,7 +817,7 @@ Unicode_character: 🇬🇳
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Guinea/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -885,7 +885,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
 
-#is_/same_as :: [[../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Guinea,1006|WD~Guinea,1006]] 
 
 ## #has_/map 
 
@@ -904,7 +904,7 @@ markerFile: [[Guinea]]
 
 ```leaflet
 id: Guinea_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -932,7 +932,7 @@ Capital :: [[Conakry]]
 
 ![[Coat_of_arms_of_Guinea.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3|Anthem-Guinea.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3|Anthem-Guinea.mp3]]
 
 ![[Flag_of_Guinea.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
